@@ -11,10 +11,14 @@ X79_247_base.rom
 X79_247_v1.rom
 
 Добавлен доступ к настройкам CSM parameters в меню Boot
-Изменены настройки Smart Fan Function
-Smart Fan Tempterature 1=25 > Smart Fan PWM 1=0
-Smart Fan Tempterature 2=35 > Smart Fan PWM 2=50
-Smart Fan Tempterature 3=65 > Smart Fan PWM 3=100
-Smart Fan Tempterature 4=70 > Smart Fan PWM 4=200
+Изменены настройки Smart Fan Function:
+
+  Smart Fan Tempterature 1=25 > Smart Fan PWM 1=0
+
+  Smart Fan Tempterature 2=35 > Smart Fan PWM 2=50
+
+  Smart Fan Tempterature 3=65 > Smart Fan PWM 3=100
+
+  Smart Fan Tempterature 4=70 > Smart Fan PWM 4=200
 
 
