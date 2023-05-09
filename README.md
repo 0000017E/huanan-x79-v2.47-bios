@@ -1,12 +1,12 @@
-# huanan-x79-v2.47-bios
+# huanan-x79-v247-bios
 
-Bios для Huanan x79 v.2.47
+Bios для Huanan x79 v2.47
 
 ![Image alt](https://github.com/strap0n/huanan-x79-v2.47-bios/blob/main/huanan-X79-X79-LGA-2011.jpg)
 
 X79_247_base.rom
 
-Полностью заводской bios, слитый с материнской платы Huanan x79 v.2.47. В базе есть возможность выставлять частоту оперативной памяти.
+Полностью заводской bios, слитый с материнской платы Huanan x79 v2.47. В базе есть возможность выставлять частоту оперативной памяти.
 
 X79_247_v1.rom
 
