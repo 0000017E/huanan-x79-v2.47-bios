@@ -2,7 +2,7 @@
 
 Bios для Huanan x79 v.2.47
 
-![Image alt](https://github.com/strap0n/huanan-x79-v2.47-bios/raw/master/huanan-X79-X79-LGA-2011.jpg)
+![Image alt](https://github.com/strap0n/huanan-x79-v2.47-bios/blob/main/huanan-X79-X79-LGA-2011.jpg)
 
 X79_247_base.rom
 
